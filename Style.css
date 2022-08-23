@@ -436,3 +436,101 @@ body{
 .top_kat2 ul li a{
     text-decoration: none;
 }
+.bot{
+    width: 100vw;
+    height: 600px;
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.tob{
+    width: 80vw;
+    height: 550px;
+    /* border: 2px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.kot_kat{
+    width: 85vw;
+    height: 270px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.kot_kat1{
+    width: 85vw;
+    height: 270px;
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+}
+.bot_kat{
+    width: 255px;
+    height: 250px;
+    /* border: 2px solid aqua; */
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(216, 212, 212);
+}
+.bot_kat2{
+    width: 255px;
+    height: 250px;
+    /* border: 2px solid aqua; */
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(216, 212, 212);
+    margin-left: 105px;
+}
+.rasm{
+    width: 255px;
+    height: 113px;
+    background-image: url(./Rectangle\ 11.1.png);
+    /* border: 2px solid red; */
+
+}
+.rasm_p{
+    width: 255px;
+    height: 80px;
+    /* border: 2px solid red; */
+}
+.rasm_ico{
+    width: 255px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    /* border: 2px solid red; */
+}
+.rasm_ic{
+    width: 85px;
+    height: 55px;
+    /* border: 2px solid aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+.dumaloq5{
+    width: 35px;
+    height: 35px;
+    border: 2px solid rgba(0, 0, 0, 0.161);
+    border-radius: 50%;
+}
+.rasm_ic .dumaloq5:hover {
+    background-color: #536DFD;
+}
+.dumaloq5 .fa-arrow-right-long:hover{
+    color: #fff;
+}
+.stiv{
+    width: 100vw;
+    height: 497px;
+    border: 2px solid black;
+    background-image: url(./Rectangle\ 13.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
